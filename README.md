@@ -1,4 +1,4 @@
-## Google Landmark Recognition 2020 Competition
+## Google Landmark Recognition
 
 ### Acknowledge
 This work was supported by the National Key R&D Program of China under Grant No. 2020AAA0103804(Sponsor: <a  href =" ">Hefu Liu</a >). This work belongs to the University of science and technology of China.
