@@ -1,0 +1,12 @@
+albumentations
+apex
+geffnet
+torch
+resnest
+pandas
+torchvision
+warmup_scheduler
+tqdm
+opencv_python
+numpy
+scikit_learn
