@@ -39,7 +39,7 @@ bash run.sh
 
 2. `python preprocess_test.py` to generate `./test.csv` label for test, or download from [here](https://bhpan.buaa.edu.cn:443/link/B71380278F2C78A33DFAF6D47B57F316)
 
-3. Download final checkpoint `./weights/final_model.pth` from [here](https://bhpan.buaa.edu.cn:443/link/74E1ED2A3920425588709F9021BA3416)
+3. Download final checkpoint `./weights/final_model.pth` from [here](https://bhpan.buaa.edu.cn:443/link/768FC9F81572DC5D1F0EEB89D479CCEB)
 
 ### Predicting
 
